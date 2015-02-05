@@ -1,9 +1,8 @@
 BS3-Dreamweaver-Snippets
 ==============================
 
-<h1>Bootstrap 3.0.0 RC1 templates as Dreamweaver Snippets</h1>
+<h1>Bootstrap 3.0.0 RC1 / Dreamweaver Snippets</h1>
 
-<hr>
 <h2>Install Instructions</h2>
 <ol>
 <li>Download the *.zip file</li>
